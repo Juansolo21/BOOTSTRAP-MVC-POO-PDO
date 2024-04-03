@@ -3,7 +3,7 @@
         private $model;
         public function __construct()
         {
-            require_once("c://xampp/htdocs/proyecto/model/usernameModel.php");
+            require_once("C:\wamp64\www\BOOTSTRAP-MVC-POO-PDO\model\usernameModel.php");
             $this->model = new usernameModel();
         }
         public function guardar($nombre){

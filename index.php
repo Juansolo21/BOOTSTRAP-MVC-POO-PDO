@@ -4,10 +4,10 @@
 
 
 
-<a href="/proyecto/view/username/create.php" class="btn btn-primary">Agregar nuevo usuario</a>
+<a href="/BOOTSTRAP-MVC-POO-PDO/view/username/create.php" class="btn btn-primary">Agregar Empresa</a>
 
 
 
 <?php
-    require_once("c://xampp/htdocs/proyecto/view/head/footer.php");
+    require_once("C:\wamp64\www\BOOTSTRAP-MVC-POO-PDO\view\head/footer.php");
 ?>
